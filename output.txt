@@ -1,0 +1,12 @@
+
+PrimeNumbers=823 853
+publicKey=702019 405319
+privateKey702019 84103
+encrypted=689878
+decrypted=4
+
+PrimeNumbers=109 173
+publicKey=18857 18379
+privateKey18857 1603
+encrypted=15591
+decrypted=4
